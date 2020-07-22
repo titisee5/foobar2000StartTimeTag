@@ -12,4 +12,5 @@ The script contains 4 "global" variables at the top to easily influence behaviou
 
 ## Dependencies
 music-tag (Used to read/ write tags)
+
 tinytag (Used as "Backup" source for duration)
