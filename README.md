@@ -9,3 +9,7 @@ The script contains 4 "global" variables at the top to easily influence behaviou
 | file_types   | default: All supported file Types. Others may or may not be supported |
 | album_keys   | what defines an album; default: albumartist and alum                  |
 | tag_name     | name of the created tag                                               |
+
+## Dependencies
+music-tag (Used to read/ write tags)
+tinytag (Used as "Backup" source for duration)
